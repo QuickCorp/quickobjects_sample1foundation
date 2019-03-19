@@ -4,3 +4,5 @@ Using Quick Objects framework with foundation components
 
 View this DEMO project working here:
 https://quickcorp.github.io/quickobjects_sample1foundation/
+
+https://demo1.qcobjects.dev/
